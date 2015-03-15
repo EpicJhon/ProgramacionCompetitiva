@@ -1,0 +1,18 @@
+Leamos:
+
+"A triple (x, y, z) is called an arithmetic progression if the equality y - x = z - y holds.""
+
+En el problema necesitamos hallar la diferencia entre "y" y "b", resolvemos "y" en la ecuación:
+
+y - x = z - y
+2y = z + x
+y = (z + x)/2
+
+Cambiando esto a la formula del a,b,c:
+
+b = (c+a)/2
+
+Esta "b" efectivamente es la diferencia de la progresión, ahora solo necesitamos sacar el
+valor absoluto de la diferencia con la "b" que nos dan y listo!:
+
+r = |[(c+a)/2]-b|
