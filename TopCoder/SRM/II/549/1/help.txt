@@ -1,0 +1,9 @@
+si el numero de intercambios es 0, devolver la posición actual
+
+si el numero de intercambios es mayor a 0 y la posicion es 1(el medio) devolver 
+la misma posision si los intercambios son pares, y devolver la posicion 0 si los intercambios
+son impares
+
+si el numero de intercambios es mayor a 0 y la posicion es 0 o 2 (extremos) devolver 
+0 si el numero de intercambios es par y 1 si el numero de intercmabios es impar
+	NOTA: este sucede por la provabilidad del 50% y devolver la mas probable
