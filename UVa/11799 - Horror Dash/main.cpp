@@ -29,7 +29,7 @@ int main() {
         // reset max
         max = -1;
         cin >> monsters;
-        // get week a
+
         for (int j = 0; j < monsters; j++) {
             cin >> speed;
             max = (speed > max) ? speed : max;
